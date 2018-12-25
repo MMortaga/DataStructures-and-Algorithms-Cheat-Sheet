@@ -2,7 +2,7 @@
 
 *Stability*: Means two objects with equal keys appear in the same order in sorted output as they appear in the input array to be sorted (يعني بيظهروا بالترتيب الصحيح)
 
-*In-place*: Means the algorithm does not need an extra space and produces an output in the same memory that contains the data by transforming the input ‘in-place’. However, a small constant extra space used for variables is allowed. (ما بيستلزم مساحات تخزين إضافية)
+*In-place*: Means the algorithm does not need extra space and produces an output in the same memory that contains the data by transforming the input ‘in-place’. However, a small constant extra space used for variables is allowed. (ما بيستلزم مساحات تخزين إضافية)
 
 
 ### Bubble sort:
@@ -51,5 +51,15 @@
 
  ![Heap Sort](https://upload.wikimedia.org/wikipedia/commons/f/fe/Heap_sort_example.gif)
  
+## Algorithms:
+
+![Algorithms](https://i.imgur.com/mY6dtgB.png)
 
 
+## Data Structures:
+
+![DS](https://i.imgur.com/6aUsOaW.png)
+
+## Traversing
+
+![TV](https://i.imgur.com/JOpkDXA.png)
