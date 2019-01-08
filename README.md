@@ -64,4 +64,5 @@
 
 ![TV](https://i.imgur.com/JOpkDXA.png)
 
+# Contribution by @amanWamda
 [Assignment 6 + 7 solutions including chapters 8, 9 and 10](https://drive.google.com/open?id=1SEr0y0Fm8HKcmdhE4HsarjZ7BHLlI9C-)
